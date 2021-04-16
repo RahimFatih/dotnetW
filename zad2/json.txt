@@ -1,0 +1,15 @@
+{
+    "coord":{"lon":17.0333,"lat":51.1},
+    "weather":[{"id":804,"main":"Clouds","description":"overcast clouds","icon":"04n"}],
+    "base":"stations",
+    "main":{"temp":11.98,"feels_like":9.09,"temp_min":11.67,"temp_max":12.22,"pressure":1029,"humidity":71},
+    "visibility":10000,
+    "wind":{"speed":3.09,"deg":210},
+    "clouds":{"all":90},
+    "dt":1617047535,
+    "sys":{"type":1,"id":1715,"country":"PL","sunrise":1616992445,"sunset":1617038333},
+    "timezone":7200,
+    "id":3081368,
+    "name":"Wroclaw",
+    "cod":200
+}
